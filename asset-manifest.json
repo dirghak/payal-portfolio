@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/payal-portfolio/static/css/main.fa4e73f2.css",
+    "main.js": "/payal-portfolio/static/js/main.90e5a50f.js",
+    "static/js/453.2ae7fba4.chunk.js": "/payal-portfolio/static/js/453.2ae7fba4.chunk.js",
+    "index.html": "/payal-portfolio/index.html",
+    "main.fa4e73f2.css.map": "/payal-portfolio/static/css/main.fa4e73f2.css.map",
+    "main.90e5a50f.js.map": "/payal-portfolio/static/js/main.90e5a50f.js.map",
+    "453.2ae7fba4.chunk.js.map": "/payal-portfolio/static/js/453.2ae7fba4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fa4e73f2.css",
+    "static/js/main.90e5a50f.js"
+  ]
+}
